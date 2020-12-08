@@ -1,0 +1,30 @@
+.box{
+    height: 40vh;
+    width: 40vh;
+    background-color: #c4c4c4;
+}
+h2{
+    text-align: center;
+    padding-top: 30px;
+    font-family: 'jolly lodger'
+}
+
+body{
+    background-color: #b5b5b5;
+}
+
+.container{
+    justify-content: space-around;
+    background-color: #b5b5b5; 
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    height: 97vh;
+    align-items: center;
+
+}
+p{
+    padding: 10px;
+    font-family: 'acme';
+    line-height: 1.4;
+}

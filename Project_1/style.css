@@ -1,0 +1,47 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+body{
+     background-color: #191919;
+     font-family: 'jost';
+    } 
+    h1{
+        color: white;
+        text-align: center;
+        padding-top:30px ;
+        
+    }   
+    div{
+        background: url(Space.jpg);
+        background-size: cover ;
+        position: fixed;
+        height: 420px;
+        width: 720px;
+        
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        border-radius: 30px;
+    }
+    button{
+        margin-left:110px ;
+        margin-top: 160px ;
+        padding-top:10px;
+        padding-right:30px;
+        padding-left:30px;
+        padding-bottom:10px;
+        font-size: 16px ;
+        border-radius: 10px ;
+        color: #fff;
+    }
+.red{
+    background-color: #7c2118;
+}
+.cyan{
+     background-color:#288e8a;
+}
+.blue{
+    background-color:#2b587e;
+}
